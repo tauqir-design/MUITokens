@@ -7,7 +7,7 @@
     "material/shape",
     "typography",
     "brand/default",
-    "semantic/Light",
-    "semantic/Dark"
+    "palette/Light",
+    "palette/Dark"
   ]
 }
