@@ -1,0 +1,11 @@
+{
+  "tokenSetOrder": [
+    "material/colors/Mode 1",
+    "palette/Light",
+    "palette/Dark",
+    "typography/Mode 1",
+    "breakpoints/Mode 1",
+    "spacing/Mode 1",
+    "shape/Mode 1"
+  ]
+}
