@@ -5,7 +5,9 @@
     "material/breakpoints",
     "material/spacing",
     "material/shape",
-    "palette/Light",
-    "palette/Dark"
+    "typography",
+    "brand/default",
+    "semantic/Light",
+    "semantic/Dark"
   ]
 }
