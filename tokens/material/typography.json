@@ -159,6 +159,14 @@
     "medium": {
       "value": "Medium",
       "type": "fontWeights"
+    },
+    "semibold": {
+      "value": "Semi Bold",
+      "type": "fontWeights"
+    },
+    "bold": {
+      "value": "Bold",
+      "type": "fontWeights"
     }
   },
   "fontSize": {
