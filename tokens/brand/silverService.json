@@ -1,0 +1,40 @@
+{
+  "brand": {
+    "lightTheme": {
+      "main": {
+        "value": "#004990",
+        "type": "color"
+      },
+      "dark": {
+        "value": "{brand.silverService.20}",
+        "type": "color"
+      },
+      "light": {
+        "value": "{brand.silverService.40}",
+        "type": "color"
+      },
+      "contrastText": {
+        "value": "#FFF",
+        "type": "color"
+      }
+    },
+    "darkTheme": {
+      "main": {
+        "value": "{brand.silverService.50}",
+        "type": "color"
+      },
+      "dark": {
+        "value": "{brand.silverService.40}",
+        "type": "color"
+      },
+      "light": {
+        "value": "{brand.silverService.70}",
+        "type": "color"
+      },
+      "contrastText": {
+        "value": "#fff",
+        "type": "color"
+      }
+    }
+  }
+}

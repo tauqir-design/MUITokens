@@ -1,0 +1,40 @@
+{
+  "brand": {
+    "lightTheme": {
+      "main": {
+        "value": "#FF911B",
+        "type": "color"
+      },
+      "dark": {
+        "value": "{brand.13cabs.40}",
+        "type": "color"
+      },
+      "light": {
+        "value": "{brand.13cabs.80}",
+        "type": "color"
+      },
+      "contrastText": {
+        "value": "#000",
+        "type": "color"
+      }
+    },
+    "darkTheme": {
+      "main": {
+        "value": "{brand.13cabs.80}",
+        "type": "color"
+      },
+      "dark": {
+        "value": "{brand.13cabs.50}",
+        "type": "color"
+      },
+      "light": {
+        "value": "{brand.13cabs.90}",
+        "type": "color"
+      },
+      "contrastText": {
+        "value": "#000",
+        "type": "color"
+      }
+    }
+  }
+}

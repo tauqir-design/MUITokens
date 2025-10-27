@@ -1,6 +1,6 @@
 {
   "brand": {
-    "50": {
+    "base": {
       "value": "#ffffff",
       "type": "color"
     }

@@ -5,8 +5,11 @@
     "material/breakpoints",
     "material/spacing",
     "material/shape",
+    "foundation/color",
     "typography",
     "brand/default",
+    "brand/13cabs",
+    "brand/silverService",
     "palette/Light",
     "palette/Dark"
   ]

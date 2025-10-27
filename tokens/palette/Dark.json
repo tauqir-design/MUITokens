@@ -100,19 +100,19 @@
       }
     },
     "contrastText": {
-      "value": "#000000de",
+      "value": "{brand.darkTheme.contrastText}",
       "type": "color"
     },
     "light": {
-      "value": "{blue.50}",
+      "value": "{brand.darkTheme.light}",
       "type": "color"
     },
     "dark": {
-      "value": "{blue.400}",
+      "value": "{brand.darkTheme.dark}",
       "type": "color"
     },
     "main": {
-      "value": "{blue.200}",
+      "value": "{brand.darkTheme.main}",
       "type": "color"
     }
   },
