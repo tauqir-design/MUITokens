@@ -1,1 +1,53 @@
-[]
+[
+  {
+    "id": "99c921fcb6528fec648dbbef9c57aeefaa400582",
+    "name": "Material",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "material/colors": "enabled",
+      "material/typography": "enabled",
+      "material/breakpoints": "enabled",
+      "material/spacing": "enabled",
+      "material/shape": "enabled",
+      "typography": "enabled"
+    }
+  },
+  {
+    "id": "3d69b1802c057d3e1ffd4aef0990e5a1229f0ff1",
+    "name": "13Cabs",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/13cabs": "enabled",
+      "foundation/color": "source"
+    },
+    "group": "brand"
+  },
+  {
+    "id": "c58cdc5b562843cac9cd5edda5575d6c385d769c",
+    "name": "Silver Service",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/silverService": "enabled",
+      "foundation/color": "source"
+    },
+    "group": "brand"
+  },
+  {
+    "id": "f7f72d6a586f9a1ad79a3c6cf70fdf470ca5366f",
+    "name": "light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "palette/Light": "enabled"
+    },
+    "group": "palette"
+  },
+  {
+    "id": "be7f021f4390ec308378f5a9618ba3cff4fa492c",
+    "name": "dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "palette/Dark": "enabled"
+    },
+    "group": "palette"
+  }
+]
