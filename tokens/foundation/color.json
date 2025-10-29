@@ -179,140 +179,140 @@
       }
     },
     "informative": {
-      "10": {
-        "value": "#162312",
+      "9": {
+        "value": "#020B2C",
         "type": "color"
       },
-      "14": {
-        "value": "#1D3712",
+      "17": {
+        "value": "#031553",
         "type": "color"
       },
-      "19": {
-        "value": "#274916",
+      "25": {
+        "value": "#051F7B",
         "type": "color"
       },
-      "24": {
-        "value": "#306317",
+      "34": {
+        "value": "#072AA7",
         "type": "color"
       },
-      "31": {
-        "value": "#3C8618",
+      "44": {
+        "value": "#0936D8",
         "type": "color"
       },
-      "38": {
-        "value": "#49AA19",
+      "55": {
+        "value": "#2251F6",
         "type": "color"
       },
-      "48": {
-        "value": "#6ABE39",
+      "66": {
+        "value": "#587BF8",
         "type": "color"
       },
-      "60": {
-        "value": "#8FD460",
-        "type": "color"
-      },
-      "72": {
-        "value": "#B2E58B",
+      "76": {
+        "value": "#89A2FA",
         "type": "color"
       },
       "84": {
-        "value": "#D5F2BB",
+        "value": "#B1C1FC",
         "type": "color"
       },
-      "91": {
-        "value": "#E7F8D8",
+      "92": {
+        "value": "#D8E0FD",
+        "type": "color"
+      },
+      "97": {
+        "value": "#F0F3FE",
         "type": "color"
       }
     },
     "caution": {
-      "10": {
-        "value": "#162312",
+      "12": {
+        "value": "#2B2111",
         "type": "color"
       },
-      "14": {
-        "value": "#1D3712",
+      "17": {
+        "value": "#443111",
         "type": "color"
       },
-      "19": {
-        "value": "#274916",
+      "21": {
+        "value": "#594214",
         "type": "color"
       },
-      "24": {
-        "value": "#306317",
-        "type": "color"
-      },
-      "31": {
-        "value": "#3C8618",
+      "28": {
+        "value": "#7C5914",
         "type": "color"
       },
       "38": {
-        "value": "#49AA19",
+        "value": "#AD7914",
         "type": "color"
       },
-      "48": {
-        "value": "#6ABE39",
+      "46": {
+        "value": "#D89614",
         "type": "color"
       },
-      "60": {
-        "value": "#8FD460",
+      "57": {
+        "value": "#E8B339",
         "type": "color"
       },
-      "72": {
-        "value": "#B2E58B",
+      "67": {
+        "value": "#F3CC62",
         "type": "color"
       },
-      "84": {
-        "value": "#D5F2BB",
+      "76": {
+        "value": "#F8DF8B",
+        "type": "color"
+      },
+      "85": {
+        "value": "#FAEDB5",
         "type": "color"
       },
       "91": {
-        "value": "#E7F8D8",
+        "value": "#FCF5D4",
         "type": "color"
       }
     },
     "critical": {
-      "10": {
-        "value": "#162312",
+      "12": {
+        "value": "#2A1215",
         "type": "color"
       },
-      "14": {
-        "value": "#1D3712",
+      "17": {
+        "value": "#431418",
         "type": "color"
       },
-      "19": {
-        "value": "#274916",
+      "22": {
+        "value": "#58181C",
         "type": "color"
       },
-      "24": {
-        "value": "#306317",
-        "type": "color"
-      },
-      "31": {
-        "value": "#3C8618",
+      "29": {
+        "value": "#791A1F",
         "type": "color"
       },
       "38": {
-        "value": "#49AA19",
+        "value": "#A61D24",
         "type": "color"
       },
-      "48": {
-        "value": "#6ABE39",
+      "45": {
+        "value": "#C0262E",
         "type": "color"
       },
-      "60": {
-        "value": "#8FD460",
+      "59": {
+        "value": "#E84749",
         "type": "color"
       },
-      "72": {
-        "value": "#B2E58B",
+      "70": {
+        "value": "#F37370",
         "type": "color"
       },
-      "84": {
-        "value": "#D5F2BB",
+      "79": {
+        "value": "#F89F9A",
         "type": "color"
       },
-      "91": {
-        "value": "#E7F8D8",
+      "87": {
+        "value": "#FAC8C3",
+        "type": "color"
+      },
+      "97": {
+        "value": "#FEF2F1",
         "type": "color"
       }
     }
