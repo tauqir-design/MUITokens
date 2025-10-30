@@ -1,15 +1,14 @@
 {
   "tokenSetOrder": [
-    "material/colors",
-    "material/typography",
-    "material/breakpoints",
-    "material/spacing",
-    "material/shape",
-    "typography",
-    "foundation/color",
+    "primitive/typography",
+    "primitive/breakpoints",
+    "primitive/spacing",
+    "primitive/shape",
+    "primitive/color",
     "brand/13cabs",
     "brand/silverService",
     "palette/Light",
-    "palette/Dark"
+    "palette/Dark",
+    "typography"
   ]
 }

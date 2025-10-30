@@ -132,7 +132,7 @@
         "type": "color"
       }
     },
-    "positive": {
+    "green": {
       "10": {
         "value": "#162312",
         "type": "color"
@@ -178,7 +178,7 @@
         "type": "color"
       }
     },
-    "informative": {
+    "blue": {
       "9": {
         "value": "#020B2C",
         "type": "color"
@@ -224,7 +224,7 @@
         "type": "color"
       }
     },
-    "caution": {
+    "yellow": {
       "12": {
         "value": "#2B2111",
         "type": "color"
@@ -270,7 +270,7 @@
         "type": "color"
       }
     },
-    "critical": {
+    "red": {
       "12": {
         "value": "#2A1215",
         "type": "color"
