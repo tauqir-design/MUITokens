@@ -308,7 +308,7 @@
           }
         },
         "main": {
-          "value": "{brand.silverService.70}",
+          "value": "{brand.silverService.50}",
           "type": "color"
         }
       },
