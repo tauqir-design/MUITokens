@@ -169,50 +169,50 @@
   },
   "letterSpacing": {
     "0": {
-      "value": "-1.5",
-      "type": "letterSpacing"
-    },
-    "1": {
-      "value": "-0.5",
-      "type": "letterSpacing"
-    },
-    "2": {
       "value": "0",
       "type": "letterSpacing"
     },
-    "3": {
+    "-150": {
+      "value": "-1.5",
+      "type": "letterSpacing"
+    },
+    "-050": {
+      "value": "-0.5",
+      "type": "letterSpacing"
+    },
+    "+025": {
       "value": "0.25",
       "type": "letterSpacing"
     },
-    "4": {
+    "+015": {
       "value": "0.15",
       "type": "letterSpacing"
     },
-    "5": {
+    "+017": {
       "value": "0.17",
       "type": "letterSpacing"
     },
-    "6": {
+    "+010": {
       "value": "0.1",
       "type": "letterSpacing"
     },
-    "7": {
+    "+100": {
       "value": "1",
       "type": "letterSpacing"
     },
-    "8": {
+    "+040": {
       "value": "0.4",
       "type": "letterSpacing"
     },
-    "9": {
+    "+014": {
       "value": "0.14",
       "type": "letterSpacing"
     },
-    "10": {
+    "+046": {
       "value": "0.46",
       "type": "letterSpacing"
     },
-    "11": {
+    "+016": {
       "value": "0.16",
       "type": "letterSpacing"
     }
