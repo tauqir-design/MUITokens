@@ -4,7 +4,7 @@
       "value": {
         "fontFamily": "{font.family}",
         "fontWeight": "{fontWeight.light}",
-        "lineHeight": "{lineHeight.0}",
+        "lineHeight": "{lineHeight.xs}",
         "fontSize": "{fontSize.96}",
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
@@ -18,7 +18,7 @@
       "value": {
         "fontFamily": "{font.family}",
         "fontWeight": "{fontWeight.light}",
-        "lineHeight": "{lineHeight.1}",
+        "lineHeight": "{lineHeight.sm}",
         "fontSize": "{fontSize.60}",
         "letterSpacing": "{letterSpacing.1}",
         "paragraphSpacing": "{paragraphSpacing.0}",
@@ -32,7 +32,7 @@
       "value": {
         "fontFamily": "{font.family}",
         "fontWeight": "{fontWeight.regular}",
-        "lineHeight": "{lineHeight.0}",
+        "lineHeight": "{lineHeight.xs}",
         "fontSize": "{fontSize.48}",
         "letterSpacing": "{letterSpacing.2}",
         "paragraphSpacing": "{paragraphSpacing.0}",
@@ -46,7 +46,7 @@
       "value": {
         "fontFamily": "{font.family}",
         "fontWeight": "{fontWeight.regular}",
-        "lineHeight": "{lineHeight.3}",
+        "lineHeight": "{lineHeight.md}",
         "fontSize": "{fontSize.34}",
         "letterSpacing": "{letterSpacing.3}",
         "paragraphSpacing": "{paragraphSpacing.0}",
@@ -60,7 +60,7 @@
       "value": {
         "fontFamily": "{font.family}",
         "fontWeight": "{fontWeight.regular}",
-        "lineHeight": "{lineHeight.4}",
+        "lineHeight": "{lineHeight.lg}",
         "fontSize": "{fontSize.24}",
         "letterSpacing": "{letterSpacing.2}",
         "paragraphSpacing": "{paragraphSpacing.0}",
@@ -74,7 +74,7 @@
       "value": {
         "fontFamily": "{font.family}",
         "fontWeight": "{fontWeight.medium}",
-        "lineHeight": "{lineHeight.5}",
+        "lineHeight": "{lineHeight.4xl}",
         "fontSize": "{fontSize.20}",
         "letterSpacing": "{letterSpacing.4}",
         "paragraphSpacing": "{paragraphSpacing.0}",
@@ -88,7 +88,7 @@
       "value": {
         "fontFamily": "{font.family}",
         "fontWeight": "{fontWeight.regular}",
-        "lineHeight": "{lineHeight.6}",
+        "lineHeight": "{lineHeight.2xl}",
         "fontSize": "{fontSize.16}",
         "letterSpacing": "{letterSpacing.4}",
         "paragraphSpacing": "{paragraphSpacing.0}",
@@ -102,7 +102,7 @@
       "value": {
         "fontFamily": "{font.family}",
         "fontWeight": "{fontWeight.regular}",
-        "lineHeight": "{lineHeight.7}",
+        "lineHeight": "{lineHeight.xl}",
         "fontSize": "{fontSize.14}",
         "letterSpacing": "{letterSpacing.5}",
         "paragraphSpacing": "{paragraphSpacing.0}",
@@ -116,7 +116,7 @@
       "value": {
         "fontFamily": "{font.family}",
         "fontWeight": "{fontWeight.regular}",
-        "lineHeight": "{lineHeight.8}",
+        "lineHeight": "{lineHeight.6xl}",
         "fontSize": "{fontSize.16}",
         "letterSpacing": "{letterSpacing.4}",
         "paragraphSpacing": "{paragraphSpacing.0}",
@@ -130,7 +130,7 @@
       "value": {
         "fontFamily": "{font.family}",
         "fontWeight": "{fontWeight.medium}",
-        "lineHeight": "{lineHeight.9}",
+        "lineHeight": "{lineHeight.3xl}",
         "fontSize": "{fontSize.14}",
         "letterSpacing": "{letterSpacing.6}",
         "paragraphSpacing": "{paragraphSpacing.0}",
@@ -144,7 +144,7 @@
       "value": {
         "fontFamily": "{font.family}",
         "fontWeight": "{fontWeight.regular}",
-        "lineHeight": "{lineHeight.10}",
+        "lineHeight": "{lineHeight.7xl}",
         "fontSize": "{fontSize.12}",
         "letterSpacing": "{letterSpacing.7}",
         "paragraphSpacing": "{paragraphSpacing.0}",
@@ -158,7 +158,7 @@
       "value": {
         "fontFamily": "{font.family}",
         "fontWeight": "{fontWeight.regular}",
-        "lineHeight": "{lineHeight.11}",
+        "lineHeight": "{lineHeight.5xl}",
         "fontSize": "{fontSize.12}",
         "letterSpacing": "{letterSpacing.8}",
         "paragraphSpacing": "{paragraphSpacing.0}",
@@ -174,7 +174,7 @@
       "value": {
         "fontFamily": "{font.family}",
         "fontWeight": "{fontWeight.medium}",
-        "lineHeight": "{lineHeight.6}",
+        "lineHeight": "{lineHeight.2xl}",
         "fontSize": "{fontSize.16}",
         "letterSpacing": "{letterSpacing.4}",
         "paragraphSpacing": "{paragraphSpacing.0}",
@@ -188,7 +188,7 @@
       "value": {
         "fontFamily": "{font.family}",
         "fontWeight": "{fontWeight.medium}",
-        "lineHeight": "{lineHeight.7}",
+        "lineHeight": "{lineHeight.xl}",
         "fontSize": "{fontSize.14}",
         "letterSpacing": "{letterSpacing.4}",
         "paragraphSpacing": "{paragraphSpacing.0}",
@@ -204,7 +204,7 @@
       "value": {
         "fontFamily": "{font.family}",
         "fontWeight": "{fontWeight.regular}",
-        "lineHeight": "{lineHeight.14}",
+        "lineHeight": "{lineHeight.20}",
         "fontSize": "{fontSize.20}",
         "letterSpacing": "{letterSpacing.9}",
         "paragraphSpacing": "{paragraphSpacing.0}",
@@ -218,8 +218,8 @@
       "value": {
         "fontFamily": "{font.family}",
         "fontWeight": "{fontWeight.regular}",
-        "lineHeight": "{lineHeight.15}",
-        "fontSize": "{fontSize.0}",
+        "lineHeight": "{lineHeight.10}",
+        "fontSize": "{fontSize.10}",
         "letterSpacing": "{letterSpacing.2}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
@@ -232,7 +232,7 @@
       "value": {
         "fontFamily": "{font.family}",
         "fontWeight": "{fontWeight.regular}",
-        "lineHeight": "{lineHeight.16}",
+        "lineHeight": "{lineHeight.12}",
         "fontSize": "{fontSize.12}",
         "letterSpacing": "{letterSpacing.2}",
         "paragraphSpacing": "{paragraphSpacing.0}",
@@ -248,7 +248,7 @@
       "value": {
         "fontFamily": "{font.family}",
         "fontWeight": "{fontWeight.medium}",
-        "lineHeight": "{lineHeight.14}",
+        "lineHeight": "{lineHeight.20}",
         "fontSize": "{fontSize.12}",
         "letterSpacing": "{letterSpacing.9}",
         "paragraphSpacing": "{paragraphSpacing.0}",
@@ -264,7 +264,7 @@
       "value": {
         "fontFamily": "{font.family}",
         "fontWeight": "{fontWeight.regular}",
-        "lineHeight": "{lineHeight.11}",
+        "lineHeight": "{lineHeight.5xl}",
         "fontSize": "{fontSize.14}",
         "letterSpacing": "{letterSpacing.8}",
         "paragraphSpacing": "{paragraphSpacing.0}",
@@ -280,7 +280,7 @@
       "value": {
         "fontFamily": "{font.family}",
         "fontWeight": "{fontWeight.medium}",
-        "lineHeight": "{lineHeight.19}",
+        "lineHeight": "{lineHeight.26}",
         "fontSize": "{fontSize.15}",
         "letterSpacing": "{letterSpacing.10}",
         "paragraphSpacing": "{paragraphSpacing.0}",
@@ -294,7 +294,7 @@
       "value": {
         "fontFamily": "{font.family}",
         "fontWeight": "{fontWeight.medium}",
-        "lineHeight": "{lineHeight.20}",
+        "lineHeight": "{lineHeight.24}",
         "fontSize": "{fontSize.14}",
         "letterSpacing": "{letterSpacing.8}",
         "paragraphSpacing": "{paragraphSpacing.0}",
@@ -308,7 +308,7 @@
       "value": {
         "fontFamily": "{font.family}",
         "fontWeight": "{fontWeight.medium}",
-        "lineHeight": "{lineHeight.21}",
+        "lineHeight": "{lineHeight.22}",
         "fontSize": "{fontSize.13}",
         "letterSpacing": "{letterSpacing.10}",
         "paragraphSpacing": "{paragraphSpacing.0}",
@@ -324,7 +324,7 @@
       "value": {
         "fontFamily": "{font.family}",
         "fontWeight": "{fontWeight.regular}",
-        "lineHeight": "{lineHeight.22}",
+        "lineHeight": "{lineHeight.18}",
         "fontSize": "{fontSize.13}",
         "letterSpacing": "{letterSpacing.11}",
         "paragraphSpacing": "{paragraphSpacing.0}",
@@ -340,7 +340,7 @@
       "value": {
         "fontFamily": "{font.family}",
         "fontWeight": "{fontWeight.medium}",
-        "lineHeight": "{lineHeight.6}",
+        "lineHeight": "{lineHeight.2xl}",
         "fontSize": "{fontSize.16}",
         "letterSpacing": "{letterSpacing.4}",
         "paragraphSpacing": "{paragraphSpacing.0}",
@@ -356,7 +356,7 @@
       "value": {
         "fontFamily": "{font.family}",
         "fontWeight": "{fontWeight.regular}",
-        "lineHeight": "{lineHeight.16}",
+        "lineHeight": "{lineHeight.12}",
         "fontSize": "{fontSize.12}",
         "letterSpacing": "{letterSpacing.4}",
         "paragraphSpacing": "{paragraphSpacing.0}",
@@ -370,7 +370,7 @@
       "value": {
         "fontFamily": "{font.family}",
         "fontWeight": "{fontWeight.regular}",
-        "lineHeight": "{lineHeight.20}",
+        "lineHeight": "{lineHeight.24}",
         "fontSize": "{fontSize.16}",
         "letterSpacing": "{letterSpacing.4}",
         "paragraphSpacing": "{paragraphSpacing.0}",
@@ -384,7 +384,7 @@
       "value": {
         "fontFamily": "{font.family}",
         "fontWeight": "{fontWeight.regular}",
-        "lineHeight": "{lineHeight.11}",
+        "lineHeight": "{lineHeight.5xl}",
         "fontSize": "{fontSize.12}",
         "letterSpacing": "{letterSpacing.8}",
         "paragraphSpacing": "{paragraphSpacing.0}",
@@ -400,7 +400,7 @@
       "value": {
         "fontFamily": "{font.family}",
         "fontWeight": "{fontWeight.medium}",
-        "lineHeight": "{lineHeight.27}",
+        "lineHeight": "{lineHeight.48}",
         "fontSize": "{fontSize.14}",
         "letterSpacing": "{letterSpacing.6}",
         "paragraphSpacing": "{paragraphSpacing.0}",
@@ -416,7 +416,7 @@
       "value": {
         "fontFamily": "{font.family}",
         "fontWeight": "{fontWeight.regular}",
-        "lineHeight": "{lineHeight.6}",
+        "lineHeight": "{lineHeight.2xl}",
         "fontSize": "{fontSize.16}",
         "letterSpacing": "{letterSpacing.4}",
         "paragraphSpacing": "{paragraphSpacing.0}",
@@ -430,7 +430,7 @@
       "value": {
         "fontFamily": "{font.family}",
         "fontWeight": "{fontWeight.regular}",
-        "lineHeight": "{lineHeight.20}",
+        "lineHeight": "{lineHeight.24}",
         "fontSize": "{fontSize.14}",
         "letterSpacing": "{letterSpacing.5}",
         "paragraphSpacing": "{paragraphSpacing.0}",
@@ -446,7 +446,7 @@
       "value": {
         "fontFamily": "{font.family}",
         "fontWeight": "{fontWeight.medium}",
-        "lineHeight": "{lineHeight.20}",
+        "lineHeight": "{lineHeight.24}",
         "fontSize": "{fontSize.14}",
         "letterSpacing": "{letterSpacing.5}",
         "paragraphSpacing": "{paragraphSpacing.0}",
@@ -462,8 +462,8 @@
       "value": {
         "fontFamily": "{font.family}",
         "fontWeight": "{fontWeight.medium}",
-        "lineHeight": "{lineHeight.31}",
-        "fontSize": "{fontSize.0}",
+        "lineHeight": "{lineHeight.14}",
+        "fontSize": "{fontSize.10}",
         "letterSpacing": "{letterSpacing.2}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
@@ -478,7 +478,7 @@
       "value": {
         "fontFamily": "{font.family}",
         "fontWeight": "{fontWeight.medium}",
-        "lineHeight": "{lineHeight.16}",
+        "lineHeight": "{lineHeight.12}",
         "fontSize": "{fontSize.12}",
         "letterSpacing": "{letterSpacing.4}",
         "paragraphSpacing": "{paragraphSpacing.0}",
@@ -494,7 +494,7 @@
       "value": {
         "fontFamily": "{font.family}",
         "fontWeight": "{fontWeight.medium}",
-        "lineHeight": "{lineHeight.0}",
+        "lineHeight": "{lineHeight.xs}",
         "fontSize": "{fontSize.64}",
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",

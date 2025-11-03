@@ -5,10 +5,7 @@
     "primitive/spacing",
     "primitive/shape",
     "primitive/color",
-    "brand/silverService/light",
-    "brand/silverService/dark",
-    "brand/13cabs/light",
-    "brand/13cabs/dark",
+    "theme/13cabs",
     "palette/Light",
     "palette/Dark",
     "typography"

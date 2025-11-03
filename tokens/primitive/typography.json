@@ -10,140 +10,84 @@
     }
   },
   "lineHeight": {
-    "0": {
-      "value": "116.7%",
-      "type": "lineHeights"
-    },
-    "1": {
-      "value": "120%",
-      "type": "lineHeights"
-    },
-    "2": {
-      "value": "116.7%",
-      "type": "lineHeights"
-    },
-    "3": {
-      "value": "123.5%",
-      "type": "lineHeights"
-    },
-    "4": {
-      "value": "133.4%",
-      "type": "lineHeights"
-    },
-    "5": {
-      "value": "160%",
-      "type": "lineHeights"
-    },
-    "6": {
-      "value": "150%",
-      "type": "lineHeights"
-    },
-    "7": {
-      "value": "143%",
-      "type": "lineHeights"
-    },
-    "8": {
-      "value": "175%",
-      "type": "lineHeights"
-    },
-    "9": {
-      "value": "157%",
-      "type": "lineHeights"
-    },
     "10": {
-      "value": "266%",
-      "type": "lineHeights"
-    },
-    "11": {
-      "value": "166%",
-      "type": "lineHeights"
-    },
-    "12": {
-      "value": "150%",
-      "type": "lineHeights"
-    },
-    "13": {
-      "value": "143%",
-      "type": "lineHeights"
-    },
-    "14": {
-      "value": "20",
-      "type": "lineHeights"
-    },
-    "15": {
       "value": "10",
       "type": "lineHeights"
     },
-    "16": {
+    "12": {
       "value": "12",
       "type": "lineHeights"
     },
-    "17": {
-      "value": "20",
+    "14": {
+      "value": "14",
       "type": "lineHeights"
     },
     "18": {
-      "value": "166%",
-      "type": "lineHeights"
-    },
-    "19": {
-      "value": "26",
-      "type": "lineHeights"
-    },
-    "20": {
-      "value": "24",
-      "type": "lineHeights"
-    },
-    "21": {
-      "value": "22",
-      "type": "lineHeights"
-    },
-    "22": {
       "value": "18",
       "type": "lineHeights"
     },
-    "23": {
-      "value": "150%",
+    "20": {
+      "value": "20",
+      "type": "lineHeights"
+    },
+    "22": {
+      "value": "22",
       "type": "lineHeights"
     },
     "24": {
-      "value": "12",
-      "type": "lineHeights"
-    },
-    "25": {
       "value": "24",
       "type": "lineHeights"
     },
     "26": {
-      "value": "166%",
+      "value": "26",
       "type": "lineHeights"
     },
-    "27": {
+    "48": {
       "value": "48",
       "type": "lineHeights"
     },
-    "28": {
+    "xs": {
+      "value": "116.7%",
+      "type": "lineHeights"
+    },
+    "sm": {
+      "value": "120%",
+      "type": "lineHeights"
+    },
+    "md": {
+      "value": "123.5%",
+      "type": "lineHeights"
+    },
+    "lg": {
+      "value": "133.4%",
+      "type": "lineHeights"
+    },
+    "xl": {
+      "value": "143%",
+      "type": "lineHeights"
+    },
+    "2xl": {
       "value": "150%",
       "type": "lineHeights"
     },
-    "29": {
-      "value": "24",
+    "3xl": {
+      "value": "157%",
       "type": "lineHeights"
     },
-    "30": {
-      "value": "24",
+    "4xl": {
+      "value": "160%",
       "type": "lineHeights"
     },
-    "31": {
-      "value": "14",
+    "5xl": {
+      "value": "166%",
       "type": "lineHeights"
     },
-    "32": {
-      "value": "12",
+    "6xl": {
+      "value": "175%",
       "type": "lineHeights"
     },
-    "33": {
-      "value": "116.7%",
+    "7xl": {
+      "value": "266%",
       "type": "lineHeights"
     }
   },
@@ -170,7 +114,7 @@
     }
   },
   "fontSize": {
-    "0": {
+    "10": {
       "value": "10",
       "type": "fontSizes"
     },
