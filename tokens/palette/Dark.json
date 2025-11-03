@@ -1,73 +1,41 @@
 {
-  "text": {
-    "_states": {
-      "focusVisible": {
-        "value": "#ffffff4d",
-        "type": "color"
-      },
-      "focus": {
-        "value": "#ffffff1f",
-        "type": "color"
-      },
-      "selected": {
-        "value": "#ffffff29",
-        "type": "color"
-      },
-      "hover": {
-        "value": "#ffffff14",
-        "type": "color"
-      }
-    },
-    "disabled": {
-      "value": "#ffffff61",
-      "type": "color"
-    },
-    "secondary": {
-      "value": "#ffffffb3",
-      "type": "color"
-    },
-    "primary": {
-      "value": "#ffffff",
-      "type": "color"
-    }
-  },
   "primary": {
     "_states": {
       "outlinedBorder": {
-        "value": "{theme.dark.primary._states.outlinedBorder}",
+        "value": "{theme.primary._states.outlinedBorder}",
         "type": "color"
       },
       "focusVisible": {
-        "value": "{theme.dark.primary._states.focusVisible}",
+        "value": "{theme.primary._states.focusVisible}",
         "type": "color"
       },
       "focus": {
-        "value": "{theme.dark.primary._states.focus}",
+        "value": "{theme.primary._states.focus}",
         "type": "color"
       },
       "selected": {
-        "value": "{theme.dark.primary._states.selected}",
+        "value": "{theme.primary._states.selected}",
         "type": "color"
       },
       "hover": {
-        "value": "{theme.dark.primary._states.hover}",
+        "value": "{theme.primary._states.hover}",
         "type": "color"
       }
     },
     "contrastText": {
-      "value": "{theme.dark.primary.contrastText}",
+      "value": "{theme.primary.contrastText}",
       "type": "color"
     },
     "light": {
-      "value": "{theme.dark.primary.light}",
+      "value": "{theme.primary.light}",
       "type": "color"
     },
     "dark": {
-      "value": "{theme.dark.primary.dark}",
+      "value": "{theme.primary.dark}",
       "type": "color"
     },
     "main": {
-      "value": "{theme.dark.primary.main}",
+      "value": "{theme.primary.main}",
       "type": "color"
     }
   },
@@ -108,6 +76,38 @@
     },
     "main": {
       "value": "{theme.dark.secondary.main}",
+      "type": "color"
+    }
+  },
+  "text": {
+    "_states": {
+      "focusVisible": {
+        "value": "#ffffff4d",
+        "type": "color"
+      },
+      "focus": {
+        "value": "#ffffff1f",
+        "type": "color"
+      },
+      "selected": {
+        "value": "#ffffff29",
+        "type": "color"
+      },
+      "hover": {
+        "value": "#ffffff14",
+        "type": "color"
+      }
+    },
+    "disabled": {
+      "value": "#ffffff61",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "#ffffffb3",
+      "type": "color"
+    },
+    "primary": {
+      "value": "#ffffff",
       "type": "color"
     }
   },

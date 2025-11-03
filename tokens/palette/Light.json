@@ -1,73 +1,41 @@
 {
-  "text": {
-    "_states": {
-      "focusVisible": {
-        "value": "#0000004d",
-        "type": "color"
-      },
-      "focus": {
-        "value": "#0000001f",
-        "type": "color"
-      },
-      "selected": {
-        "value": "#00000014",
-        "type": "color"
-      },
-      "hover": {
-        "value": "#0000000a",
-        "type": "color"
-      }
-    },
-    "disabled": {
-      "value": "#00000061",
-      "type": "color"
-    },
-    "secondary": {
-      "value": "#00000099",
-      "type": "color"
-    },
-    "primary": {
-      "value": "#000000de",
-      "type": "color"
-    }
-  },
   "primary": {
     "_states": {
       "outlinedBorder": {
-        "value": "{theme.light.primary._states.outlinedBorder}",
+        "value": "{theme.primary._states.outlinedBorder}",
         "type": "color"
       },
       "focusVisible": {
-        "value": "{theme.light.primary._states.focusVisible}",
+        "value": "{theme.primary._states.focusVisible}",
         "type": "color"
       },
       "focus": {
-        "value": "{theme.light.primary._states.focus}",
+        "value": "{theme.primary._states.focus}",
         "type": "color"
       },
       "selected": {
-        "value": "{theme.light.primary._states.selected}",
+        "value": "{theme.primary._states.selected}",
         "type": "color"
       },
       "hover": {
-        "value": "{theme.light.primary._states.hover}",
+        "value": "{theme.primary._states.hover}",
         "type": "color"
       }
     },
     "contrastText": {
-      "value": "{theme.light.primary.contrastText}",
+      "value": "{theme.primary.contrastText}",
       "type": "color"
     },
     "light": {
-      "value": "{theme.light.primary.light}",
+      "value": "{theme.primary.light}",
       "type": "color"
     },
     "dark": {
-      "value": "{theme.light.primary.dark}",
+      "value": "{theme.primary.dark}",
       "type": "color"
     },
     "main": {
-      "value": "{theme.light.primary.main}",
+      "value": "{theme.primary.main}",
       "type": "color"
     }
   },
@@ -108,6 +76,38 @@
     },
     "main": {
       "value": "{theme.light.secondary.main}",
+      "type": "color"
+    }
+  },
+  "text": {
+    "_states": {
+      "focusVisible": {
+        "value": "#0000004d",
+        "type": "color"
+      },
+      "focus": {
+        "value": "#0000001f",
+        "type": "color"
+      },
+      "selected": {
+        "value": "#00000014",
+        "type": "color"
+      },
+      "hover": {
+        "value": "#0000000a",
+        "type": "color"
+      }
+    },
+    "disabled": {
+      "value": "#00000061",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "#00000099",
+      "type": "color"
+    },
+    "primary": {
+      "value": "#000000de",
       "type": "color"
     }
   },
