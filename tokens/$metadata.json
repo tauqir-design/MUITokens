@@ -1,10 +1,10 @@
 {
   "tokenSetOrder": [
-    "Nothing at all/typography",
-    "Nothing at all/breakpoints",
-    "Nothing at all/spacing",
-    "Nothing at all/shape",
-    "Nothing at all/color",
+    "primitive/typography",
+    "primitive/breakpoints",
+    "primitive/spacing",
+    "primitive/shape",
+    "primitive/color",
     "theme/silverService",
     "theme/13cabs",
     "palette/Light",

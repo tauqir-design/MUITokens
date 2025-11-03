@@ -4,11 +4,11 @@
     "name": "token",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Nothing at all/typography": "enabled",
-      "Nothing at all/breakpoints": "enabled",
-      "Nothing at all/spacing": "enabled",
-      "Nothing at all/shape": "enabled",
-      "Nothing at all/color": "enabled"
+      "primitive/typography": "enabled",
+      "primitive/breakpoints": "enabled",
+      "primitive/spacing": "enabled",
+      "primitive/shape": "enabled",
+      "primitive/color": "enabled"
     },
     "group": "01 primitive",
     "$figmaCollectionId": "VariableCollectionId:11656:148122",
@@ -498,49 +498,5 @@
       "_components.avatar.fill": "1b6b38df3e1d677dbc1704b0cc0d0e7b2bc9eef8",
       "_native.scrollbar-bg": "05230d96a4c1e87b7805a7586af0d901a0dc5247"
     }
-  },
-  {
-    "id": "233cd03c291ad4a9842cfb726ffd4ab75a96819c",
-    "name": "Token",
-    "$figmaStyleReferences": {
-      "typography.h1": "S:31fa0af82248ce580b480999730f68fea8ca2fc9,",
-      "typography.h2": "S:430e80ca209806238dcb1d61771488e7f8204a3c,",
-      "typography.h3": "S:81e04736782ce27ec883a1de6d65e26db6eaf698,",
-      "typography.h4": "S:353ec4e9278b9dac574dbbbd03ed49a257589074,",
-      "typography.h5": "S:7fd885c11df36957c6e1170099c1092bca0d298b,",
-      "typography.h6": "S:edb06cf1664cf9d05a7e5e6ddbb1fd5613c7f044,",
-      "typography.body1": "S:d49c1b490e701d9c0b4b0e1587e9ebc7435ad3a0,",
-      "typography.body2": "S:384ed8f9fd37808f82246eb0e1a10e8e18c1074e,",
-      "typography.subtitle1": "S:d2d0e8bf5ded57d17b3113d5215037209b8b08e5,",
-      "typography.subtitle2": "S:527c96d4eba3f40cf0ea8bd05fe2349937847881,",
-      "typography.overline": "S:28d0356e350049815f96eb0e654f39326e2c2232,",
-      "typography.caption": "S:f66b276e130fb86abafa288931291dc00f47b40e,",
-      "alert.title": "S:285b55422966c60f2eab6e9361c79a1cfd389bff,",
-      "alert.description": "S:44c4f2627bf70a651bf2703fac1d0fe8abeef9c8,",
-      "avatar.initialsLg": "S:ad9aaa902bf06fd443f107303f224fadaedc5bc0,",
-      "avatar.initialsSm": "S:93d0a7999f0556efffc7a45f56c53098c4c95061,",
-      "avatar.initialsMd": "S:d4d7f79b7d02db2f2f7deabbd41ce03c173149d6,",
-      "badge.label": "S:01e97df2f620aee257f5054e42c9aa2cc687a2ef,",
-      "bottomNavigation.activeLabel": "S:5df71631f0e3eb3cfbfa5d2f0c821a52040c1a71,",
-      "button.large": "S:6c92cfa65faa7732821de82925e825506949ca7e,",
-      "button.medium": "S:646d482373549620cfe37783ca9fdbcf0b51f00e,",
-      "button.small": "S:b07235f86abdcddf26f3c85f7f5ea5553b9a399f,",
-      "chip.label": "S:1f81cff8258968c8274b5136f8081f6271cffda2,",
-      "datePicker.currentMonth": "S:536e03ec7939c23498f39fcc6d7983a6101d04c6,",
-      "input.label": "S:b1a3a96d38123f85a827990ffed9caac55b905c2,",
-      "input.value": "S:94c74559c513dfe6f05bd3ac3be9c0ecb9e55774,",
-      "input.helper": "S:fa17eeb582c057c7ad4b6dfabc1387c86d74d15b,",
-      "list.subheader": "S:89fe430c33af0c7d78095fb22a23e9062d43305f,",
-      "menu.itemDefault": "S:902c64bb9c60ed403e6934df61663e22e1105a14,",
-      "menu.itemDense": "S:e5d434b48ac3ba8bd2090929969b56799fef6a23,",
-      "table.header": "S:88cec49c8ce3ea33361e4620896606fba1092f1f,",
-      "tooltip.label": "S:6c8ee16db384bc3a146530f0233a27b21058d9cf,",
-      "dataGrid.aggregationColumnHeaderLabel": "S:8adf715c93f9d8190048677486a1ff03ab46e85c,",
-      "_library.heading": "S:2ac0995bd924403ba1ab96e54b632621760a1c2c,"
-    },
-    "selectedTokenSets": {
-      "typography": "enabled"
-    },
-    "group": "04 Typography"
   }
 ]
