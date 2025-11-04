@@ -3,11 +3,11 @@
     "primitive/color",
     "primitive/typography",
     "primitive/dimensions",
+    "typography",
+    "theme",
     "palette/Light",
     "palette/Dark",
-    "theme",
-    "themeOverride/blue",
-    "themeOverride/orange",
-    "themeOverride/default"
+    "brandOverride/blue",
+    "brandOverride/orange"
   ]
 }
