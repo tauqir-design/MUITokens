@@ -285,7 +285,7 @@
         "letterSpacing": "{letterSpacing.+046}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
-        "textCase": "{textCase.uppercase}",
+        "textCase": "{textCase.none}",
         "textDecoration": "{textDecoration.none}"
       },
       "type": "typography"
@@ -299,7 +299,7 @@
         "letterSpacing": "{letterSpacing.+040}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
-        "textCase": "{textCase.uppercase}",
+        "textCase": "{textCase.none}",
         "textDecoration": "{textDecoration.none}"
       },
       "type": "typography"
@@ -313,7 +313,7 @@
         "letterSpacing": "{letterSpacing.+046}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
-        "textCase": "{textCase.uppercase}",
+        "textCase": "{textCase.none}",
         "textDecoration": "{textDecoration.none}"
       },
       "type": "typography"

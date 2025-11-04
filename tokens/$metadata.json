@@ -4,10 +4,10 @@
     "primitive/typography",
     "primitive/dimensions",
     "typography",
-    "theme",
+    "brand/default",
+    "brand/blue",
+    "brand/orange",
     "palette/Light",
-    "palette/Dark",
-    "brandOverride/blue",
-    "brandOverride/orange"
+    "palette/Dark"
   ]
 }

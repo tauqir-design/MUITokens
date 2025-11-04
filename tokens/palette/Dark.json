@@ -12,7 +12,7 @@
       "value": "{theme.darkMode.primary.dark}",
       "type": "color"
     },
-    "contrast": {
+    "contrastText": {
       "value": "{theme.darkMode.primary.text}",
       "type": "color"
     },
@@ -52,7 +52,7 @@
       "value": "{theme.darkMode.secondary.dark}",
       "type": "color"
     },
-    "contrast": {
+    "contrastText": {
       "value": "{theme.darkMode.secondary.text}",
       "type": "color"
     },
@@ -168,7 +168,7 @@
         }
       }
     },
-    "contrast": {
+    "contrastText": {
       "value": "{color.white}",
       "type": "color"
     },
@@ -258,7 +258,7 @@
         }
       }
     },
-    "contrast": {
+    "contrastText": {
       "value": "{color.white}",
       "type": "color"
     },
@@ -348,7 +348,7 @@
         }
       }
     },
-    "contrast": {
+    "contrastText": {
       "value": "{color.white}",
       "type": "color"
     },
@@ -438,7 +438,7 @@
         }
       }
     },
-    "contrast": {
+    "contrastText": {
       "value": "{color.white}",
       "type": "color"
     },
