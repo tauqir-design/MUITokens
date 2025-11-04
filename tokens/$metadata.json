@@ -1,13 +1,13 @@
 {
   "tokenSetOrder": [
+    "primitive/color",
     "primitive/typography",
     "primitive/dimensions",
-    "primitive/color",
     "palette/Light",
     "palette/Dark",
     "theme",
-    "themeOverride/default",
     "themeOverride/blue",
-    "themeOverride/orange"
+    "themeOverride/orange",
+    "themeOverride/default"
   ]
 }

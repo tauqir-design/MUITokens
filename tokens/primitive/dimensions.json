@@ -1,50 +1,50 @@
 {
   "1": {
-    "value": 8,
+    "value": "8",
     "type": "number"
   },
   "2": {
-    "value": 16,
+    "value": "16",
     "type": "number"
   },
   "3": {
-    "value": 24,
+    "value": "24",
     "type": "number"
   },
   "4": {
-    "value": 32,
+    "value": "32",
     "type": "number"
   },
   "5": {
-    "value": 40,
+    "value": "40",
     "type": "number"
   },
   "6": {
-    "value": 48,
+    "value": "48",
     "type": "number"
   },
   "7": {
-    "value": 56,
+    "value": "56",
     "type": "number"
   },
   "8": {
-    "value": 64,
+    "value": "64",
     "type": "number"
   },
   "9": {
-    "value": 72,
+    "value": "72",
     "type": "number"
   },
   "10": {
-    "value": 80,
+    "value": "80",
     "type": "number"
   },
   "11": {
-    "value": 88,
+    "value": "88",
     "type": "number"
   },
   "12": {
-    "value": 96,
+    "value": "96",
     "type": "number"
   },
   "space": {
@@ -165,23 +165,23 @@
   },
   "breakpoint": {
     "xs": {
-      "value": 444,
+      "value": "444",
       "type": "number"
     },
     "sm": {
-      "value": 600,
+      "value": "600",
       "type": "number"
     },
     "md": {
-      "value": 900,
+      "value": "900",
       "type": "number"
     },
     "lg": {
-      "value": 1200,
+      "value": "1200",
       "type": "number"
     },
     "xl": {
-      "value": 1536,
+      "value": "1536",
       "type": "number"
     }
   }

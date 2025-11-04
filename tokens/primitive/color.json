@@ -238,49 +238,87 @@
         "type": "color"
       }
     },
-    "alpha": {
+    "blackAlpha": {
+      "4": {
+        "value": "#0000000A",
+        "type": "color"
+      },
       "8": {
-        "value": "#141414",
+        "value": "#00000014",
         "type": "color"
       },
-      "13": {
-        "value": "#212121",
+      "12": {
+        "value": "#0000001f",
         "type": "color"
       },
-      "26": {
-        "value": "#424242",
+      "16": {
+        "value": "#00000029",
+        "type": "color"
+      },
+      "30": {
+        "value": "#0000004D",
         "type": "color"
       },
       "38": {
-        "value": "#616161",
+        "value": "#00000061",
         "type": "color"
       },
-      "45": {
-        "value": "#737373",
+      "56": {
+        "value": "#0000008f",
         "type": "color"
       },
-      "62": {
-        "value": "#9E9E9E",
+      "60": {
+        "value": "#00000099",
         "type": "color"
       },
-      "74": {
-        "value": "#BDBDBD",
+      "70": {
+        "value": "#000000B3",
         "type": "color"
       },
-      "85": {
-        "value": "#D9D9D9",
+      "87": {
+        "value": "#000000de",
+        "type": "color"
+      }
+    },
+    "whiteAlpha": {
+      "4": {
+        "value": "#ffffff0A",
         "type": "color"
       },
-      "89": {
-        "value": "#E4E4E4",
+      "8": {
+        "value": "#ffffff14",
         "type": "color"
       },
-      "93": {
-        "value": "#EDEDED",
+      "12": {
+        "value": "#ffffff1f",
         "type": "color"
       },
-      "97": {
-        "value": "#F7F7F7",
+      "16": {
+        "value": "#ffffff29",
+        "type": "color"
+      },
+      "30": {
+        "value": "#ffffff4D",
+        "type": "color"
+      },
+      "38": {
+        "value": "#ffffff61",
+        "type": "color"
+      },
+      "56": {
+        "value": "#ffffff8f",
+        "type": "color"
+      },
+      "60": {
+        "value": "#ffffff99",
+        "type": "color"
+      },
+      "70": {
+        "value": "#ffffffB3",
+        "type": "color"
+      },
+      "87": {
+        "value": "#ffffffde",
         "type": "color"
       }
     }
