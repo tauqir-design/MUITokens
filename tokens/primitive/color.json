@@ -237,6 +237,52 @@
         "value": "#FEF2F1",
         "type": "color"
       }
+    },
+    "alpha": {
+      "8": {
+        "value": "#141414",
+        "type": "color"
+      },
+      "13": {
+        "value": "#212121",
+        "type": "color"
+      },
+      "26": {
+        "value": "#424242",
+        "type": "color"
+      },
+      "38": {
+        "value": "#616161",
+        "type": "color"
+      },
+      "45": {
+        "value": "#737373",
+        "type": "color"
+      },
+      "62": {
+        "value": "#9E9E9E",
+        "type": "color"
+      },
+      "74": {
+        "value": "#BDBDBD",
+        "type": "color"
+      },
+      "85": {
+        "value": "#D9D9D9",
+        "type": "color"
+      },
+      "89": {
+        "value": "#E4E4E4",
+        "type": "color"
+      },
+      "93": {
+        "value": "#EDEDED",
+        "type": "color"
+      },
+      "97": {
+        "value": "#F7F7F7",
+        "type": "color"
+      }
     }
   }
 }

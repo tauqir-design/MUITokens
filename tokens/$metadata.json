@@ -6,6 +6,7 @@
     "palette/Light",
     "palette/Dark",
     "theme",
+    "themeOverride/default",
     "themeOverride/blue",
     "themeOverride/orange"
   ]

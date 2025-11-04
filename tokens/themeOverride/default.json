@@ -1,0 +1,46 @@
+{
+  "lightMode": {
+    "primary": {
+      "color": {
+        "value": "#293281",
+        "type": "color"
+      },
+      "text": {
+        "value": "{color.black}",
+        "type": "color"
+      }
+    },
+    "secondary": {
+      "color": {
+        "value": "#F9F8F7",
+        "type": "color"
+      },
+      "text": {
+        "value": "{color.black}",
+        "type": "color"
+      }
+    }
+  },
+  "darkMode": {
+    "primary": {
+      "color": {
+        "value": "#00aee5",
+        "type": "color"
+      },
+      "text": {
+        "value": "{color.white}",
+        "type": "color"
+      }
+    },
+    "secondary": {
+      "color": {
+        "value": "#BCB1A3",
+        "type": "color"
+      },
+      "text": {
+        "value": "{color.black}",
+        "type": "color"
+      }
+    }
+  }
+}
