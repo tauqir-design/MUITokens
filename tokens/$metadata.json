@@ -1,14 +1,12 @@
 {
   "tokenSetOrder": [
     "primitive/typography",
-    "primitive/breakpoints",
-    "primitive/spacing",
-    "primitive/shape",
+    "primitive/dimensions",
     "primitive/color",
-    "theme/silverService",
-    "theme/13cabs",
     "palette/Light",
     "palette/Dark",
-    "typography"
+    "theme",
+    "themeOverride/blue",
+    "themeOverride/orange"
   ]
 }
