@@ -1,82 +1,4 @@
 {
-  "brand": {
-    "13cabs": {
-      "10": {
-        "value": "#331A00",
-        "type": "color"
-      },
-      "20": {
-        "value": "#663500",
-        "type": "color"
-      },
-      "30": {
-        "value": "#994F00",
-        "type": "color"
-      },
-      "40": {
-        "value": "#CC6A00",
-        "type": "color"
-      },
-      "50": {
-        "value": "#FF8400",
-        "type": "color"
-      },
-      "70": {
-        "value": "#FFB566",
-        "type": "color"
-      },
-      "80": {
-        "value": "#FFCE99",
-        "type": "color"
-      },
-      "90": {
-        "value": "#FFE6CC",
-        "type": "color"
-      },
-      "95": {
-        "value": "#FFF3E5",
-        "type": "color"
-      }
-    },
-    "silverService": {
-      "10": {
-        "value": "#001A33",
-        "type": "color"
-      },
-      "20": {
-        "value": "#003366",
-        "type": "color"
-      },
-      "30": {
-        "value": "#004D99",
-        "type": "color"
-      },
-      "40": {
-        "value": "#0066CC",
-        "type": "color"
-      },
-      "50": {
-        "value": "#0080FF",
-        "type": "color"
-      },
-      "70": {
-        "value": "#66B2FF",
-        "type": "color"
-      },
-      "80": {
-        "value": "#99CCFF",
-        "type": "color"
-      },
-      "90": {
-        "value": "#CBE5FF",
-        "type": "color"
-      },
-      "95": {
-        "value": "#E5F2FF",
-        "type": "color"
-      }
-    }
-  },
   "color": {
     "white": {
       "value": "#ffffff",
@@ -313,6 +235,90 @@
       },
       "97": {
         "value": "#FEF2F1",
+        "type": "color"
+      }
+    },
+    "blackAlpha": {
+      "4": {
+        "value": "#0000000A",
+        "type": "color"
+      },
+      "8": {
+        "value": "#00000014",
+        "type": "color"
+      },
+      "12": {
+        "value": "#0000001f",
+        "type": "color"
+      },
+      "16": {
+        "value": "#00000029",
+        "type": "color"
+      },
+      "30": {
+        "value": "#0000004D",
+        "type": "color"
+      },
+      "38": {
+        "value": "#00000061",
+        "type": "color"
+      },
+      "56": {
+        "value": "#0000008f",
+        "type": "color"
+      },
+      "60": {
+        "value": "#00000099",
+        "type": "color"
+      },
+      "70": {
+        "value": "#000000B3",
+        "type": "color"
+      },
+      "87": {
+        "value": "#000000de",
+        "type": "color"
+      }
+    },
+    "whiteAlpha": {
+      "4": {
+        "value": "#ffffff0A",
+        "type": "color"
+      },
+      "8": {
+        "value": "#ffffff14",
+        "type": "color"
+      },
+      "12": {
+        "value": "#ffffff1f",
+        "type": "color"
+      },
+      "16": {
+        "value": "#ffffff29",
+        "type": "color"
+      },
+      "30": {
+        "value": "#ffffff4D",
+        "type": "color"
+      },
+      "38": {
+        "value": "#ffffff61",
+        "type": "color"
+      },
+      "56": {
+        "value": "#ffffff8f",
+        "type": "color"
+      },
+      "60": {
+        "value": "#ffffff99",
+        "type": "color"
+      },
+      "70": {
+        "value": "#ffffffB3",
+        "type": "color"
+      },
+      "87": {
+        "value": "#ffffffde",
         "type": "color"
       }
     }
