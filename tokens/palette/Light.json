@@ -319,7 +319,7 @@
   },
   "warning": {
     "main": {
-      "value": "{color.yellow.67}",
+      "value": "{color.yellow.38}",
       "type": "color"
     },
     "light": {
@@ -349,7 +349,7 @@
       }
     },
     "contrastText": {
-      "value": "{color.black}",
+      "value": "{color.white}",
       "type": "color"
     },
     "_states": {
@@ -660,12 +660,6 @@
   "divider": {
     "value": "#0000001f",
     "type": "color"
-  },
-  "elevation": {
-    "outlined": {
-      "value": "#e0e0e0",
-      "type": "color"
-    }
   },
   "_components": {
     "switch": {

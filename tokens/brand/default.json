@@ -3,7 +3,7 @@
     "lightMode": {
       "primary": {
         "color": {
-          "value": "#0ac532",
+          "value": "#293281",
           "type": "color"
         },
         "text": {
@@ -104,7 +104,7 @@
       },
       "secondary": {
         "color": {
-          "value": "{color.neutral.13}",
+          "value": "{color.neutral.26}",
           "type": "color"
         },
         "text": {
