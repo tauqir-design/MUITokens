@@ -39,10 +39,10 @@
       "_library.heading": "S:8b174d99b5ffc5f399d9d73916df20eadca291ab,"
     },
     "selectedTokenSets": {
-      "primitive/typography": "enabled",
-      "primitive/color": "enabled",
-      "primitive/dimensions": "enabled",
-      "typography": "enabled"
+      "typography": "enabled",
+      "global/color": "enabled",
+      "global/typography": "enabled",
+      "global/dimensions": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:11669:151652",
     "$figmaModeId": "11669:54",
@@ -212,15 +212,15 @@
       "breakpoint.lg": "ce76888038d74907a9c0efb189b2d6e0ecec9ff9",
       "breakpoint.xl": "6d0b303082e2d3e067628a27601b1c7622597375"
     },
-    "group": "01 primitive"
+    "group": "01 global"
   },
   {
     "id": "34303652537f509d08ee860d1b1f2c4b8f6731ca",
     "name": "default",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "primitive/color": "source",
-      "brand/default": "enabled"
+      "brand/default": "enabled",
+      "global/color": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:11669:151818",
     "$figmaModeId": "11669:55",
@@ -269,9 +269,9 @@
     "name": "13Cabs",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "primitive/color": "source",
       "brand/default": "enabled",
-      "brand/orange": "enabled"
+      "brand/orange": "enabled",
+      "global/color": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:11669:151818",
     "$figmaModeId": "11669:56",
@@ -320,9 +320,9 @@
     "name": "Silver Service",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "primitive/color": "source",
       "brand/default": "enabled",
-      "brand/blue": "enabled"
+      "brand/blue": "enabled",
+      "global/color": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:11669:151818",
     "$figmaModeId": "11669:57",
@@ -372,8 +372,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "palette/Light": "enabled",
-      "primitive/color": "source",
-      "brand/default": "source"
+      "brand/default": "source",
+      "global/color": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:11669:151855",
     "$figmaModeId": "11669:58",
@@ -521,8 +521,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "palette/Dark": "enabled",
-      "primitive/color": "source",
-      "brand/default": "source"
+      "brand/default": "source",
+      "global/color": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:11669:151855",
     "$figmaModeId": "11669:59",

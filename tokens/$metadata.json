@@ -1,8 +1,8 @@
 {
   "tokenSetOrder": [
-    "primitive/color",
-    "primitive/typography",
-    "primitive/dimensions",
+    "global/color",
+    "global/typography",
+    "global/dimensions",
     "typography",
     "brand/default",
     "brand/blue",
