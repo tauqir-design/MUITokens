@@ -121,7 +121,7 @@
       "type": "spacing"
     }
   },
-  "rounded": {
+  "borderRadius": {
     "none": {
       "value": "0",
       "type": "borderRadius"

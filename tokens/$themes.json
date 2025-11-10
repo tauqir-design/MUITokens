@@ -221,21 +221,21 @@
       "spacing.1600": "fb5e346fe22bcf1fd46d8d9919975258a3a15d4c",
       "spacing.3200": "016e677785e68eb7440c5d8716ebbe8a83925889",
       "spacing.none": "f4ab42d0f241aa91dbd9543f8b0ecb5b224b338b",
-      "rounded.none": "e558d8c5535609a05dad012679e650d85714ad1f",
-      "rounded.xs": "1df3e4b31e75c286b2670d59fd3f0d441a9e7739",
-      "rounded.sm": "82fe9e2cc2474d18ab3234721de27bb5b02cbddd",
-      "rounded.md": "ecd478743ca703762e96e4773099525cc3746c2f",
-      "rounded.lg": "c9485d8c5398564515512dc5ae5f54b76c75d0e5",
-      "rounded.xl": "036a81f06b47f3e5ec5d9e73ae1a2e27bdf7c2dd",
-      "rounded.2xl": "6f0807549a082488bba1ff55d7c6eaba2c569298",
-      "rounded.3xl": "78afa9381e775ac25e55095301508753e4d789c2",
-      "rounded.4xl": "1eeb53c912041e9a3e08ada579d4000b8fecd9d2",
-      "rounded.full": "c3f6c9ce886ed931385526ce259a36412c950c7f",
       "breakpoint.xs": "6080d71557bb788af729019f2eea0b3e289f1c29",
       "breakpoint.sm": "b5c20c96cfb2626be4084df633592b4677c45586",
       "breakpoint.md": "1a7da144ffa5676b4802af04d67b250a93ad7027",
       "breakpoint.lg": "ce76888038d74907a9c0efb189b2d6e0ecec9ff9",
-      "breakpoint.xl": "6d0b303082e2d3e067628a27601b1c7622597375"
+      "breakpoint.xl": "6d0b303082e2d3e067628a27601b1c7622597375",
+      "borderRadius.none": "e558d8c5535609a05dad012679e650d85714ad1f",
+      "borderRadius.xs": "1df3e4b31e75c286b2670d59fd3f0d441a9e7739",
+      "borderRadius.sm": "82fe9e2cc2474d18ab3234721de27bb5b02cbddd",
+      "borderRadius.md": "ecd478743ca703762e96e4773099525cc3746c2f",
+      "borderRadius.lg": "c9485d8c5398564515512dc5ae5f54b76c75d0e5",
+      "borderRadius.xl": "036a81f06b47f3e5ec5d9e73ae1a2e27bdf7c2dd",
+      "borderRadius.2xl": "6f0807549a082488bba1ff55d7c6eaba2c569298",
+      "borderRadius.3xl": "78afa9381e775ac25e55095301508753e4d789c2",
+      "borderRadius.4xl": "1eeb53c912041e9a3e08ada579d4000b8fecd9d2",
+      "borderRadius.full": "c3f6c9ce886ed931385526ce259a36412c950c7f"
     },
     "group": "Global"
   },
@@ -537,7 +537,7 @@
       "_components.avatar.fill": "48a2f410fd73286f99f4cdba7a418fa22d9ca7ff",
       "_native.scrollbar-bg": "815170de2c73ecf2dce4a28cb64df5819d34afa4"
     },
-    "group": "Mode"
+    "group": "palette"
   },
   {
     "id": "2ea17808103d8d0201c2d4ef9c52a671f0318b96",
@@ -686,6 +686,6 @@
       "_components.avatar.fill": "48a2f410fd73286f99f4cdba7a418fa22d9ca7ff",
       "_native.scrollbar-bg": "815170de2c73ecf2dce4a28cb64df5819d34afa4"
     },
-    "group": "Mode"
+    "group": "palette"
   }
 ]
