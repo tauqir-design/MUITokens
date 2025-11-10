@@ -644,11 +644,11 @@
       "value": "#ffffff",
       "type": "color"
     },
-    "paper-elevation-22": {
+    "paper-elevation-23": {
       "value": "#ffffff",
       "type": "color"
     },
-    "paper-elevation-23": {
+    "paper-elevation-22": {
       "value": "#ffffff",
       "type": "color"
     },
@@ -816,7 +816,7 @@
     },
     "avatar": {
       "fill": {
-        "value": "{grey.400}",
+        "value": "{color.neutral.74}",
         "type": "color"
       }
     }

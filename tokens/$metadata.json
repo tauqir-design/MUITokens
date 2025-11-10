@@ -4,9 +4,9 @@
     "global/typography",
     "global/dimensions",
     "typography",
-    "brand/default",
-    "brand/blue",
-    "brand/orange",
+    "themeGenerator/default",
+    "themeGenerator/blue",
+    "themeGenerator/orange",
     "palette/Light",
     "palette/Dark"
   ]

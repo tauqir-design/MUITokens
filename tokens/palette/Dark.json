@@ -822,7 +822,7 @@
     },
     "avatar": {
       "fill": {
-        "value": "{grey.600}",
+        "value": "{color.neutral.45}",
         "type": "color"
       }
     }
