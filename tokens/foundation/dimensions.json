@@ -1,122 +1,124 @@
 {
-  "spacing": {
-    "50": {
-      "value": "2",
-      "type": "spacing"
+  "dimension": {
+    "spacing": {
+      "50": {
+        "value": "2",
+        "type": "spacing"
+      },
+      "100": {
+        "value": "4",
+        "type": "spacing"
+      },
+      "150": {
+        "value": "6",
+        "type": "spacing"
+      },
+      "200": {
+        "value": "8",
+        "type": "spacing"
+      },
+      "250": {
+        "value": "10",
+        "type": "spacing"
+      },
+      "300": {
+        "value": "12",
+        "type": "spacing"
+      },
+      "350": {
+        "value": "14",
+        "type": "spacing"
+      },
+      "400": {
+        "value": "16",
+        "type": "spacing"
+      },
+      "500": {
+        "value": "20",
+        "type": "spacing"
+      },
+      "600": {
+        "value": "24",
+        "type": "spacing"
+      },
+      "700": {
+        "value": "28",
+        "type": "spacing"
+      },
+      "800": {
+        "value": "32",
+        "type": "spacing"
+      },
+      "900": {
+        "value": "36",
+        "type": "spacing"
+      },
+      "1000": {
+        "value": "40",
+        "type": "spacing"
+      },
+      "1200": {
+        "value": "48",
+        "type": "spacing"
+      },
+      "1600": {
+        "value": "64",
+        "type": "spacing"
+      },
+      "2000": {
+        "value": "80",
+        "type": "spacing"
+      },
+      "3200": {
+        "value": "128",
+        "type": "spacing"
+      },
+      "none": {
+        "value": "0",
+        "type": "spacing"
+      }
     },
-    "100": {
-      "value": "4",
-      "type": "spacing"
-    },
-    "150": {
-      "value": "6",
-      "type": "spacing"
-    },
-    "200": {
-      "value": "8",
-      "type": "spacing"
-    },
-    "250": {
-      "value": "10",
-      "type": "spacing"
-    },
-    "300": {
-      "value": "12",
-      "type": "spacing"
-    },
-    "350": {
-      "value": "14",
-      "type": "spacing"
-    },
-    "400": {
-      "value": "16",
-      "type": "spacing"
-    },
-    "500": {
-      "value": "20",
-      "type": "spacing"
-    },
-    "600": {
-      "value": "24",
-      "type": "spacing"
-    },
-    "700": {
-      "value": "28",
-      "type": "spacing"
-    },
-    "800": {
-      "value": "32",
-      "type": "spacing"
-    },
-    "900": {
-      "value": "36",
-      "type": "spacing"
-    },
-    "1000": {
-      "value": "40",
-      "type": "spacing"
-    },
-    "1200": {
-      "value": "48",
-      "type": "spacing"
-    },
-    "1600": {
-      "value": "64",
-      "type": "spacing"
-    },
-    "2000": {
-      "value": "80",
-      "type": "spacing"
-    },
-    "3200": {
-      "value": "128",
-      "type": "spacing"
-    },
-    "none": {
-      "value": "0",
-      "type": "spacing"
-    }
-  },
-  "borderRadius": {
-    "none": {
-      "value": "0",
-      "type": "borderRadius"
-    },
-    "xs": {
-      "value": "2",
-      "type": "borderRadius"
-    },
-    "sm": {
-      "value": "4",
-      "type": "borderRadius"
-    },
-    "md": {
-      "value": "6",
-      "type": "borderRadius"
-    },
-    "lg": {
-      "value": "8",
-      "type": "borderRadius"
-    },
-    "xl": {
-      "value": "12",
-      "type": "borderRadius"
-    },
-    "2xl": {
-      "value": "16",
-      "type": "borderRadius"
-    },
-    "3xl": {
-      "value": "24",
-      "type": "borderRadius"
-    },
-    "4xl": {
-      "value": "32",
-      "type": "borderRadius"
-    },
-    "full": {
-      "value": "9999",
-      "type": "borderRadius"
+    "borderRadius": {
+      "none": {
+        "value": "0",
+        "type": "borderRadius"
+      },
+      "xs": {
+        "value": "2",
+        "type": "borderRadius"
+      },
+      "sm": {
+        "value": "4",
+        "type": "borderRadius"
+      },
+      "md": {
+        "value": "6",
+        "type": "borderRadius"
+      },
+      "lg": {
+        "value": "8",
+        "type": "borderRadius"
+      },
+      "xl": {
+        "value": "12",
+        "type": "borderRadius"
+      },
+      "2xl": {
+        "value": "16",
+        "type": "borderRadius"
+      },
+      "3xl": {
+        "value": "24",
+        "type": "borderRadius"
+      },
+      "4xl": {
+        "value": "32",
+        "type": "borderRadius"
+      },
+      "full": {
+        "value": "9999",
+        "type": "borderRadius"
+      }
     }
   }
 }
