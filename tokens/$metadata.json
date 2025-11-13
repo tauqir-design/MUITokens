@@ -1,12 +1,17 @@
 {
   "tokenSetOrder": [
-    "global/color",
-    "global/typography",
-    "global/dimensions",
-    "typography",
+    "foundation/color",
+    "foundation/typography",
+    "foundation/dimensions",
+    "material/colors/Mode 1",
+    "material/elevation",
+    "material/typography/Mode 1",
+    "material/spacing/Mode 1",
+    "material/shape/Mode 1",
     "themeGenerator/default",
     "themeGenerator/blue",
     "themeGenerator/orange",
+    "composite-typography",
     "palette/Light",
     "palette/Dark"
   ]

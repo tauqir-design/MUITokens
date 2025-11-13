@@ -1,48 +1,30 @@
 {
   "theme": {
     "lightMode": {
-      "primary": {
-        "color": {
-          "value": "#004990",
-          "type": "color"
-        },
-        "text": {
-          "value": "{color.white}",
-          "type": "color"
-        }
+      "color": {
+        "value": "#004990",
+        "type": "color"
       },
-      "secondary": {
-        "color": {
-          "value": "#F9F8F7",
-          "type": "color"
-        },
-        "text": {
-          "value": "{color.black}",
-          "type": "color"
-        }
+      "text": {
+        "value": "{color.white}",
+        "type": "color"
       }
     },
     "darkMode": {
-      "primary": {
-        "color": {
-          "value": "#003A73",
-          "type": "color"
-        },
-        "text": {
-          "value": "{color.white}",
-          "type": "color"
-        }
+      "color": {
+        "value": "#003A73",
+        "type": "color"
       },
-      "secondary": {
-        "color": {
-          "value": "#BCB1A3",
-          "type": "color"
-        },
-        "text": {
-          "value": "{color.black}",
-          "type": "color"
-        }
+      "text": {
+        "value": "{color.white}",
+        "type": "color"
       }
+    }
+  },
+  "font": {
+    "family": {
+      "value": "Fira Sans",
+      "type": "fontFamilies"
     }
   }
 }

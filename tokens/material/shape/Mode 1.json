@@ -1,0 +1,10 @@
+{
+  "borderRadius": {
+    "value": "4",
+    "type": "number"
+  },
+  "none": {
+    "value": "0",
+    "type": "number"
+  }
+}
